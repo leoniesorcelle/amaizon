@@ -29,6 +29,7 @@ session_destroy();
                 <input type="text" name="email" size="20" placeholder="Email" autofocus/><br/>
                 <input type="password" name="mdp" size="20" placeholder="Mot de passe"/><br/>
                 <input type="submit" value="Connexion" />
+                <input type="hidden" name="test" />
             </form>
         </div>
 
